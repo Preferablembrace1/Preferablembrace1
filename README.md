@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, PHP and React (apparently). Mastering HTML and CSS.
 - 💞️ I’m looking to collaborate on small projects, for experience.
 - ⚡ Fun fact: My PFP was made in scratch.
-- 🎂 Im 16 years old.
+- 🎂 Im 17 years old.
 - 🇩🇴
 - 🗣️ I speak Spanish (written/spoken) and English (Written mostly).
 <!---
