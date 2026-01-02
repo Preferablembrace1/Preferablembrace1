@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and development at the moment. 
 - 🌱 I’m currently learning Javascript, PHP and React (apparently). Mastering HTML and CSS.
 - 💞️ I’m looking to collaborate on small projects, for experience.
-- ⚡ Fun fact: My PFP was made in scratch.
+- ⚡ Fun fact: My PFP was made in scratch. (Enhanced version thanks to ChatGPT)
 - 🎂 Im 17 years old.
 - 🇩🇴
 - 🗣️ I speak Spanish (written/spoken) and English (Written mostly).
